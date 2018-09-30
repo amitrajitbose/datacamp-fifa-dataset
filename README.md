@@ -1,7 +1,7 @@
 Exploratory Data Analysis of **FIFA Soccer Data-set :**
 
 ###### Overview
-The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
+This dataset contains details of over 8800 football players and various attributes like ratings, defence, speed and other skills. We need to implement a relationship between the rating with another attribute on which the ratings of a football player depends.
 
 | Data Source | Language | Libraries Used | ipython Notebook | .html Report |
 |-------------|----------|----------------|------------------|-------------|
